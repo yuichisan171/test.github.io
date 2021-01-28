@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+テスト
+<details><summary>テスト用です。</summary>テストテストテスト</details>
 
-You can use the [editor on GitHub](https://github.com/yuichisan171/test.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+\```rb
+puts 'Hello, World!'
+\```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```ruby:title.rb
+def show
+end
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```pug:index.pug
+h1 テスト
+p テスト
+```
 
-### Jekyll Themes
+:palm_tree: yeah
+:package: Box!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuichisan171/test.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 時間指定あり
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm25233457/script?w=640&h=360&from=499"></script><noscript><a href="https://www.nicovideo.jp/watch/sm25233457?from=499">【TAS】ソニックアドベンチャー2バトル "Hero Story" in 27:12.38 (1/2)</a></noscript>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 時間指定なし
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm25233457/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm25233457">【TAS】ソニックアドベンチャー2バトル "Hero Story" in 27:12.38 (1/2)</a></noscript>
